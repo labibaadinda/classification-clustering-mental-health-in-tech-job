@@ -66,7 +66,7 @@ Untuk menjalankan proyek ini, Anda perlu menginstal beberapa pustaka Python yang
 
 ## **3. Kesimpulan**
 
-Hasil clustering menunjukkan bahwa terdapat dua kelompok utama dalam dataset. Dengan model ini, kita bisa lebih memahami faktor-faktor yang mempengaruhi kesehatan mental pekerja teknologi dan bagaimana mereka merespons masalah tersebut di tempat kerja. Secara keseluruhan, model Random Forest menunjukkan performa yang paling konsisten dan efektif, sementara Decision Tree juga memberikan hasil yang stabil dan memadai dalam klasifikasi data.
+Hasil clustering menunjukkan bahwa terdapat dua kelompok utama dalam dataset. Dengan model ini, kita bisa lebih memahami faktor-faktor yang mempengaruhi kesehatan mental pekerja teknologi dan bagaimana mereka merespons masalah tersebut di tempat kerja. Secara keseluruhan, model Random Forest menunjukkan performa yang paling konsisten dan efektif.
 
 ---
 
