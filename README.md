@@ -4,7 +4,7 @@
 
 Proyek ini bertujuan untuk menganalisis data dari **OSMI Mental Health in Tech Survey 2016** untuk memahami kondisi kesehatan mental di kalangan pekerja teknologi. Dengan lebih dari **1400 responden**, dataset ini mencerminkan pandangan, pengalaman, dan tantangan yang dihadapi oleh para profesional IT terkait kecemasan, depresi, stres, serta akses terhadap dukungan psikologis di tempat kerja.
 
-Dalam proyek ini, saya menerapkan teknik **clustering** untuk mengelompokkan responden berdasarkan pola jawaban yang serupa, seperti tingkat stres, kenyamanan membicarakan kesehatan mental, dan dukungan dari perusahaan. Selain itu, saya juga menggunakan metode **klasifikasi** untuk memprediksi kemungkinan seseorang mengalami gangguan mental tertentu berdasarkan atribut-atribut yang tersedia.
+Dalam proyek ini, saya menerapkan teknik **clustering** untuk mengelompokkan responden berdasarkan pola jawaban yang serupa, seperti tingkat stres, kenyamanan membicarakan kesehatan mental, dan dukungan dari perusahaan.
 
 ---
 
